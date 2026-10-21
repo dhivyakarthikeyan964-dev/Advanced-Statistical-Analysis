@@ -1,0 +1,1 @@
+No real dataset is included. The notebook creates synthetic demonstration data in memory. If you later use real data, document its source, licence/terms, access date, population, and measurement definitions. Do not commit private or identifiable records.
